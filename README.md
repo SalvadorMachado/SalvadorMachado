@@ -1,5 +1,14 @@
 # 💫 About Me:
-Estudante do 3.º ano de Engenharia Informática no ISEP, com forte base em desenvolvimento de software e resolução de problemas. Fã de tecnologia e com vontade de aprender coisas novas (fluente em Inglês). Procuro oportunidade de estágio para aplicar conhecimentos académicos [principais áreas de interesse são Desenvolvimento de Software e Inteligência Artificial] e contribuir para o sucesso da equipa.
+Licenciado em Engenharia Informática pelo ISEP, com uma sólida formação em desenvolvimento de software e resolução estruturada de problemas. Tenho um forte interesse por Inteligência Artificial e tecnologias emergentes, procurando constantemente acompanhar a evolução do setor (fluente em Inglês). Atualmente, procuro aprofundar os meus conhecimentos através de um Mestrado, com o objetivo de desenvolver soluções tecnológicas complexas focadas em dados e IA.
+
+### 💼 Experiência Profissional
+
+#### 🍔 Estagiário de Desenvolvimento Full-Stack | Its Possible Tech (2026)
+> **Full-Stack, Tempo Real & Inteligência Artificial**
+* Desenvolvimento do **FoodGo**, uma solução Full-Stack para gestão reativa e centralizada de operações de restauração.
+* Construção de interfaces em **React/Next.js** e backend REST (**Node.js**), integrando WebSockets (**Socket.IO**) para sincronização instantânea.
+* Arquitetura de Modelo Cliente-Servidor em Camadas, contentorizado em **Docker** (com **MongoDB**) e gestão de tráfego e segurança via Kong API Gateway.
+* Criação de motor de recomendações assíncrono e integração da API **Google Gemini** para geração automática de conteúdos.
 
 ### 🚀 Destaques Académicos (ISEP)
 *Como a maioria dos projetos académicos são desenvolvidos em repositórios privados da organização do ISEP, abaixo descrevo as minhas principais contribuições:*
